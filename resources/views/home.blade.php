@@ -28,7 +28,7 @@
 
                 <h3 class="profile-username text-center">Micah Aniceto Tolentino</h3>
 
-                <p class="text-muted text-center">weeeee???? Full stack Developer</p>
+                <p class="text-muted text-center">weeeee???? full stack amp Full stack Developer</p>
             </div>
             <!-- /.card -->
 
