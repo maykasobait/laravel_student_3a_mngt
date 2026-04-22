@@ -26,12 +26,6 @@
                   <img class="profile-user-img img-fluid img-circle" src="../../images/maycakes.jpg" alt="User profile picture">
                 </div>
                 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Dinosaur Design</title>
-<style>
-
 
 </body>
 </html>
