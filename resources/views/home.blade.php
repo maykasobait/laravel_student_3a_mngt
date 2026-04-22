@@ -28,19 +28,19 @@
 
                 <h3 class="profile-username text-center">Micah Aniceto Tolentino</h3>
 
-                <p class="text-muted text-center">Full stack Developer</p>
+                <p class="text-muted text-center">weeeee???? Full stack Developer</p>
             </div>
             <!-- /.card -->
 
             <!-- About Me Box -->
-             
+
             <div class="card card-primary">
-                
+
               <div class="card-header">
                 <h3 class="card-title">About Me</h3>
               </div>
               <!-- /.card-header -->
-               
+
               <div class="card-body">
                 Dedicated Information Technology student with experience in developing academic projects such as web and mobile applications. Eager to enhance my skills<br> in real-world environments and grow as an IT professional.<br><br>
 <hr>
@@ -108,7 +108,7 @@
             <div class="col-12 col-sm-6 col-md-4 d-flex align-items-stretch">
               <div class="card bg-light">
                 <div class="card-header text-muted border-bottom-0">
-                  
+
                 </div>
                 <div class="card-body pt-0">
                   <div class="row">
@@ -203,8 +203,8 @@
               </div>
               </div>
 
-              
-              
+
+
               <!-- /.card-body -->
             </div>
             <!-- /.card -->
